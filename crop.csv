@@ -1,0 +1,101 @@
+Crop_ID,Crop_name,Crop_Category,crop_duration_in_days,Water_Requirement
+1,Rice,Cereal,120,High
+2,Wheat,Cereal,140,Medium
+3,Maize,Cereal,95,Medium
+4,Barley,Cereal,120,Medium
+5,Bajra,Cereal,85,Low
+6,Jowar,Cereal,105,Low
+7,Ragi,Cereal,110,Medium
+8,Foxtail Millet,Millet,90,Low
+9,Little Millet,Millet,95,Low
+10,Kodo Millet,Millet,100,Low
+11,Barnyard Millet,Millet,90,Low
+12,Proso Millet,Millet,90,Low
+13,Finger Millet,Millet,110,Medium
+14,Sorghum,Cereal,110,Low
+15,Oats,Cereal,120,Medium
+16,Sugarcane,Cash Crop,365,High
+17,Cotton,Cash Crop,180,Medium
+18,Jute,Cash Crop,130,High
+19,Tobacco,Cash Crop,120,Medium
+20,Tea,Plantation,365,High
+21,Coffee,Plantation,365,Medium
+22,Rubber,Plantation,365,High
+23,Coconut,Plantation,365,Medium
+24,Arecanut,Plantation,365,High
+25,Oil Palm,Plantation,365,High
+26,Groundnut,Oilseed,120,Medium
+27,Sunflower,Oilseed,95,Medium
+28,Mustard,Oilseed,110,Low
+29,Sesame,Oilseed,90,Low
+30,Soybean,Oilseed,110,Medium
+31,Castor,Oilseed,150,Low
+32,Linseed,Oilseed,130,Low
+33,Safflower,Oilseed,120,Low
+34,Black Gram,Pulse,90,Low
+35,Green Gram,Pulse,70,Low
+36,Red Gram,Pulse,180,Low
+37,Chickpea,Pulse,110,Low
+38,Cowpea,Pulse,75,Low
+39,Horse Gram,Pulse,100,Low
+40,Field Bean,Pulse,95,Medium
+41,Pea,Pulse,100,Medium
+42,Rajma,Pulse,120,Medium
+43,Lentil,Pulse,110,Low
+44,Tomato,Vegetable,90,Medium
+45,Onion,Vegetable,120,Medium
+46,Potato,Vegetable,110,Medium
+47,Brinjal,Vegetable,130,Medium
+48,Okra,Vegetable,60,Medium
+49,Cabbage,Vegetable,90,Medium
+50,Cauliflower,Vegetable,100,Medium
+51,Carrot,Vegetable,90,Medium
+52,Radish,Vegetable,60,Low
+53,Beetroot,Vegetable,90,Medium
+54,Spinach,Leafy,45,Medium
+55,Amaranthus,Leafy,40,Medium
+56,Coriander,Leafy,45,Low
+57,Fenugreek,Leafy,45,Low
+58,Drumstick,Vegetable,180,Low
+59,Bottle Gourd,Vegetable,90,Medium
+60,Bitter Gourd,Vegetable,90,Medium
+61,Ridge Gourd,Vegetable,90,Medium
+62,Pumpkin,Vegetable,110,Medium
+63,Ash Gourd,Vegetable,120,Medium
+64,Cucumber,Vegetable,70,Medium
+65,Capsicum,Vegetable,120,Medium
+66,Green Chilli,Vegetable,150,Medium
+67,Garlic,Vegetable,140,Medium
+68,Ginger,Spice,240,High
+69,Turmeric,Spice,270,High
+70,Banana,Fruit,300,High
+71,Mango,Fruit,365,Medium
+72,Papaya,Fruit,270,Medium
+73,Guava,Fruit,365,Medium
+74,Pomegranate,Fruit,365,Low
+75,Sapota,Fruit,365,Medium
+76,Jackfruit,Fruit,365,Medium
+77,Pineapple,Fruit,540,High
+78,Watermelon,Fruit,90,Medium
+79,Muskmelon,Fruit,90,Medium
+80,Grapes,Fruit,365,Medium
+81,Orange,Fruit,365,Medium
+82,Lemon,Fruit,365,Medium
+83,Sweet Lime,Fruit,365,Medium
+84,Apple,Fruit,365,Medium
+85,Pear,Fruit,365,Medium
+86,Strawberry,Fruit,120,Medium
+87,Cashew,Nut Crop,365,Low
+88,Almond,Nut Crop,365,Medium
+89,Walnut,Nut Crop,365,Medium
+90,Black Pepper,Spice,365,High
+91,Cardamom,Spice,365,High
+92,Clove,Spice,365,High
+93,Cinnamon,Spice,365,Medium
+94,Nutmeg,Spice,365,High
+95,Fennel,Spice,120,Low
+96,Cumin,Spice,120,Low
+97,Coriander Seed,Spice,110,Low
+98,Ajwain,Spice,120,Low
+99,Saffron,Spice,240,Low
+100,Vanilla,Spice,300,High

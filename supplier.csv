@@ -1,0 +1,101 @@
+Supplier_ID,Supplier_Name,Supplier_Type,Representative,Phone,Email,Village,District,State,Registration_Date
+1,Farm Tamil Seeds,Equipment Dealer,Karthik Selvi,9386209980,farmtamilseeds@agro.in,Village-28,Coimbatore,Tamil Nadu,2020-06-05
+2,Future Tamil Corporation,Pesticide Supplier,Deepak Raman,9155728978,futuretamilcorporation@agro.in,Village-41,Trichy,Tamil Nadu,2021-07-07
+3,Harvest Tamil Supplies,Multi-Service Agro Center,Akash Joseph,9101793741,harvesttamilsupplies@agro.in,Village-112,Trichy,Tamil Nadu,2020-12-24
+4,National Tamil Agro,Seed Supplier,Suresh Reddy,9886021164,nationaltamilagro@agro.in,Village-115,Madurai,Tamil Nadu,2021-02-21
+5,Prime Tamil Inputs,Pesticide Supplier,Lakshmi Joseph,9413319489,primetamilinputs@agro.in,Village-111,Coimbatore,Tamil Nadu,2025-05-07
+6,Green Tamil Industries,Multi-Service Agro Center,Manoj Prakash,9660139163,greentamilindustries@agro.in,Village-124,Madurai,Tamil Nadu,2022-04-27
+7,Golden Tamil Corporation,Equipment Dealer,Nandhini Nair,9527604957,goldentamilcorporation@agro.in,Village-197,Trichy,Tamil Nadu,2025-10-01
+8,Future Karnataka Center,Seed Supplier,Nandhini Nair,9647679432,futurekarnatakacenter@agro.in,Village-9,Hubballi,Karnataka,2022-01-13
+9,Farm Karnataka Inputs,Seed Supplier,Keerthi Raman,9461760963,farmkarnatakainputs@agro.in,Village-142,Hubballi,Karnataka,2024-05-21
+10,Shakti Karnataka Corporation,Pesticide Supplier,Vijay Patel,9303003632,shaktikarnatakacorporation@agro.in,Village-151,Hubballi,Karnataka,2020-12-27
+11,Harvest Karnataka Supplies,Pesticide Supplier,Gokul Kumar,9671227953,harvestkarnatakasupplies@agro.in,Village-129,Bengaluru,Karnataka,2020-09-01
+12,Agri Karnataka Solutions,Equipment Dealer,Gayathri Gowda,9265100343,agrikarnatakasolutions@agro.in,Village-138,Hubballi,Karnataka,2024-12-25
+13,Green Karnataka Agro,Pesticide Supplier,Suresh Gowda,9589991690,greenkarnatakaagro@agro.in,Village-50,Hubballi,Karnataka,2020-03-27
+14,Farm Karnataka Center,Multi-Service Agro Center,Anitha Naidu,9551355234,farmkarnatakacenter@agro.in,Village-1,Belagavi,Karnataka,2021-03-20
+15,Future Kerala Corporation,Seed Supplier,Ramesh Joseph,9195336363,futurekeralacorporation@agro.in,Village-22,Kochi,Kerala,2024-11-09
+16,Shakti Kerala Seeds,Seed Supplier,Arun Naidu,9845397924,shaktikeralaseeds@agro.in,Village-163,Palakkad,Kerala,2024-07-13
+17,Farm Kerala Solutions,Equipment Dealer,Ramesh Pillai,9906181402,farmkeralasolutions@agro.in,Village-144,Thrissur,Kerala,2023-10-03
+18,Green Kerala Inputs,Pesticide Supplier,Rohit Gupta,9168984156,greenkeralainputs@agro.in,Village-184,Thrissur,Kerala,2021-08-12
+19,Agri Kerala Seeds,Equipment Dealer,Nandhini Das,9161374232,agrikeralaseeds@agro.in,Village-195,Palakkad,Kerala,2025-10-25
+20,Farm Kerala Inputs,Pesticide Supplier,Ajay Das,9929413425,farmkeralainputs@agro.in,Village-75,Palakkad,Kerala,2024-05-13
+21,Future Kerala Seeds,Equipment Dealer,Karthik Naidu,9279101976,futurekeralaseeds@agro.in,Village-151,Kochi,Kerala,2024-05-01
+22,Prime Andhra Solutions,Equipment Dealer,Meena Nair,9122132345,primeandhrasolutions@agro.in,Village-90,Guntur,Andhra Pradesh,2025-01-16
+23,Shakti Andhra Agro,Multi-Service Agro Center,Gayathri Verma,9660053831,shaktiandhraagro@agro.in,Village-84,Kurnool,Andhra Pradesh,2025-10-17
+24,Prime Andhra Corporation,Fertilizer Supplier,Meena Pillai,9212504013,primeandhracorporation@agro.in,Village-140,Vijayawada,Andhra Pradesh,2024-02-20
+25,Harvest Andhra Seeds,Pesticide Supplier,Akash Iyer,9643637085,harvestandhraseeds@agro.in,Village-63,Vijayawada,Andhra Pradesh,2022-04-12
+26,Future Andhra Seeds,Fertilizer Supplier,Akash Joseph,9642380292,futureandhraseeds@agro.in,Village-52,Kurnool,Andhra Pradesh,2020-03-11
+27,Golden Andhra Supplies,Pesticide Supplier,Aishwarya Naidu,9744354484,goldenandhrasupplies@agro.in,Village-82,Kurnool,Andhra Pradesh,2020-12-09
+28,Future Andhra Inputs,Equipment Dealer,Praveen Babu,9245434017,futureandhrainputs@agro.in,Village-124,Vijayawada,Andhra Pradesh,2025-07-09
+29,Farm Telangana Solutions,Fertilizer Supplier,Rahul Das,9525001309,farmtelanganasolutions@agro.in,Village-58,Hyderabad,Telangana,2025-08-15
+30,Green Telangana Solutions,Seed Supplier,Naveen Kumar,9847090418,greentelanganasolutions@agro.in,Village-150,Karimnagar,Telangana,2021-05-16
+31,Krishi Telangana Corporation,Fertilizer Supplier,Dinesh Reddy,9551789407,krishitelanganacorporation@agro.in,Village-81,Warangal,Telangana,2024-01-09
+32,Harvest Telangana Supplies,Equipment Dealer,Lakshmi Kumar,9510571483,harvesttelanganasupplies@agro.in,Village-16,Warangal,Telangana,2024-08-25
+33,Farm Telangana Inputs,Pesticide Supplier,Akash Raman,9504161060,farmtelanganainputs@agro.in,Village-95,Karimnagar,Telangana,2020-10-10
+34,Farm Telangana Corporation,Pesticide Supplier,Arun Sharma,9508650147,farmtelanganacorporation@agro.in,Village-14,Hyderabad,Telangana,2024-05-09
+35,Agri Telangana Solutions,Fertilizer Supplier,Arun Babu,9571610671,agritelanganasolutions@agro.in,Village-145,Hyderabad,Telangana,2023-11-10
+36,Krishi Maharashtra Industries,Seed Supplier,Ajay Selvi,9152364895,krishimaharashtraindustries@agro.in,Village-47,Nashik,Maharashtra,2021-05-20
+37,Krishi Maharashtra Inputs,Multi-Service Agro Center,Rohit Krishnan,9674565356,krishimaharashtrainputs@agro.in,Village-11,Nagpur,Maharashtra,2025-04-10
+38,Harvest Maharashtra Corporation,Multi-Service Agro Center,Kiran Babu,9741765260,harvestmaharashtracorporation@agro.in,Village-9,Pune,Maharashtra,2025-03-13
+39,Farm Maharashtra Agro,Seed Supplier,Manoj Selvi,9883664381,farmmaharashtraagro@agro.in,Village-99,Nashik,Maharashtra,2022-07-21
+40,Farm Maharashtra Inputs,Multi-Service Agro Center,Nandhini Pillai,9483997648,farmmaharashtrainputs@agro.in,Village-109,Nagpur,Maharashtra,2020-06-26
+41,Agri Maharashtra Agro,Fertilizer Supplier,Akash Kumar,9663469862,agrimaharashtraagro@agro.in,Village-43,Pune,Maharashtra,2025-12-15
+42,Krishi Maharashtra Solutions,Seed Supplier,Rohit Joseph,9403275189,krishimaharashtrasolutions@agro.in,Village-136,Nagpur,Maharashtra,2021-01-12
+43,Golden Gujarat Industries,Equipment Dealer,Deepak Kumar,9659104420,goldengujaratindustries@agro.in,Village-18,Rajkot,Gujarat,2024-05-26
+44,National Gujarat Agro,Multi-Service Agro Center,Swathi Selvi,9564564284,nationalgujaratagro@agro.in,Village-195,Rajkot,Gujarat,2024-11-20
+45,Prime Gujarat Solutions,Seed Supplier,Praveen Naidu,9308799740,primegujaratsolutions@agro.in,Village-55,Rajkot,Gujarat,2022-09-15
+46,Agri Gujarat Seeds,Pesticide Supplier,Meena Selvi,9127769894,agrigujaratseeds@agro.in,Village-3,Ahmedabad,Gujarat,2024-08-15
+47,Green Gujarat Agro,Fertilizer Supplier,Vijay Chandra,9884657513,greengujaratagro@agro.in,Village-112,Surat,Gujarat,2023-04-08
+48,National Gujarat Industries,Multi-Service Agro Center,Lakshmi Singh,9790447762,nationalgujaratindustries@agro.in,Village-84,Rajkot,Gujarat,2022-05-18
+49,Harvest Gujarat Inputs,Multi-Service Agro Center,Keerthi Naidu,9341521021,harvestgujaratinputs@agro.in,Village-107,Ahmedabad,Gujarat,2022-06-28
+50,Shakti Punjab Center,Equipment Dealer,Karthik Raj,9302892246,shaktipunjabcenter@agro.in,Village-100,Patiala,Punjab,2020-11-11
+51,Farm Punjab Inputs,Fertilizer Supplier,Dinesh Naidu,9885142408,farmpunjabinputs@agro.in,Village-185,Ludhiana,Punjab,2021-03-13
+52,Krishi Punjab Corporation,Multi-Service Agro Center,Swathi Kumar,9759932094,krishipunjabcorporation@agro.in,Village-5,Ludhiana,Punjab,2024-12-27
+53,Farm Punjab Corporation,Multi-Service Agro Center,Praveen Joseph,9519388768,farmpunjabcorporation@agro.in,Village-13,Amritsar,Punjab,2021-03-09
+54,Golden Punjab Corporation,Equipment Dealer,Ramesh Reddy,9188874112,goldenpunjabcorporation@agro.in,Village-200,Ludhiana,Punjab,2022-04-23
+55,Shakti Punjab Inputs,Seed Supplier,Gokul Selvi,9250938537,shaktipunjabinputs@agro.in,Village-2,Ludhiana,Punjab,2021-10-27
+56,Green Punjab Seeds,Fertilizer Supplier,Karthik Iyer,9335227779,greenpunjabseeds@agro.in,Village-118,Amritsar,Punjab,2024-10-28
+57,Shakti Haryana Agro,Seed Supplier,Ajay Iyer,9262883916,shaktiharyanaagro@agro.in,Village-30,Rohtak,Haryana,2025-03-04
+58,Green Haryana Corporation,Fertilizer Supplier,Mohan Kumar,9971898139,greenharyanacorporation@agro.in,Village-53,Karnal,Haryana,2022-09-06
+59,Harvest Haryana Inputs,Pesticide Supplier,Arun Joseph,9825073867,harvestharyanainputs@agro.in,Village-3,Hisar,Haryana,2023-04-09
+60,Shakti Haryana Corporation,Multi-Service Agro Center,Mohan Pillai,9974726142,shaktiharyanacorporation@agro.in,Village-16,Rohtak,Haryana,2020-08-25
+61,National Haryana Supplies,Multi-Service Agro Center,Lakshmi Krishnan,9351763667,nationalharyanasupplies@agro.in,Village-33,Karnal,Haryana,2020-01-04
+62,Future Haryana Industries,Fertilizer Supplier,Dinesh Singh,9696120688,futureharyanaindustries@agro.in,Village-95,Rohtak,Haryana,2024-02-27
+63,Green Haryana Industries,Pesticide Supplier,Karthik Kumar,9436589675,greenharyanaindustries@agro.in,Village-177,Hisar,Haryana,2020-01-14
+64,Green Uttar Industries,Multi-Service Agro Center,Anitha Prakash,9506435336,greenuttarindustries@agro.in,Village-185,Varanasi,Uttar Pradesh,2022-01-22
+65,Krishi Uttar Seeds,Fertilizer Supplier,Anitha Singh,9740304278,krishiuttarseeds@agro.in,Village-191,Kanpur,Uttar Pradesh,2025-12-27
+66,National Uttar Supplies,Equipment Dealer,Vijay Nair,9875561182,nationaluttarsupplies@agro.in,Village-92,Kanpur,Uttar Pradesh,2024-10-16
+67,Future Uttar Inputs,Fertilizer Supplier,Suresh Patel,9128684830,futureuttarinputs@agro.in,Village-67,Kanpur,Uttar Pradesh,2020-05-07
+68,Harvest Uttar Inputs,Pesticide Supplier,Gayathri Pillai,9246439885,harvestuttarinputs@agro.in,Village-183,Lucknow,Uttar Pradesh,2021-02-19
+69,National Uttar Corporation,Pesticide Supplier,Lakshmi Gowda,9373644255,nationaluttarcorporation@agro.in,Village-93,Lucknow,Uttar Pradesh,2021-06-16
+70,National Uttar Industries,Multi-Service Agro Center,Naveen Prakash,9950855242,nationaluttarindustries@agro.in,Village-142,Kanpur,Uttar Pradesh,2021-05-03
+71,Harvest Rajasthan Industries,Equipment Dealer,Deepak Mishra,9918255137,harvestrajasthanindustries@agro.in,Village-169,Jaipur,Rajasthan,2023-06-17
+72,Green Rajasthan Seeds,Equipment Dealer,Mohan Raj,9764987339,greenrajasthanseeds@agro.in,Village-26,Jaipur,Rajasthan,2024-12-11
+73,Prime Rajasthan Inputs,Fertilizer Supplier,Gayathri Das,9100374095,primerajasthaninputs@agro.in,Village-107,Kota,Rajasthan,2022-05-08
+74,Shakti Rajasthan Inputs,Equipment Dealer,Gayathri Naidu,9287530876,shaktirajasthaninputs@agro.in,Village-138,Jaipur,Rajasthan,2022-12-28
+75,Shakti Rajasthan Industries,Pesticide Supplier,Arun Gupta,9125584440,shaktirajasthanindustries@agro.in,Village-32,Jaipur,Rajasthan,2024-05-31
+76,Green Rajasthan Supplies,Seed Supplier,Kiran Kumar,9434369657,greenrajasthansupplies@agro.in,Village-153,Udaipur,Rajasthan,2023-10-17
+77,Prime Rajasthan Industries,Equipment Dealer,Manoj Kumar,9314709946,primerajasthanindustries@agro.in,Village-110,Udaipur,Rajasthan,2022-05-18
+78,Shakti Madhya Seeds,Multi-Service Agro Center,Ajay Joseph,9282701535,shaktimadhyaseeds@agro.in,Village-171,Bhopal,Madhya Pradesh,2020-07-12
+79,National Madhya Solutions,Multi-Service Agro Center,Praveen Iyer,9303817181,nationalmadhyasolutions@agro.in,Village-103,Bhopal,Madhya Pradesh,2024-11-12
+80,National Madhya Supplies,Pesticide Supplier,Suresh Sharma,9571714493,nationalmadhyasupplies@agro.in,Village-11,Indore,Madhya Pradesh,2025-12-31
+81,Green Madhya Supplies,Seed Supplier,Vignesh Kumar,9138263677,greenmadhyasupplies@agro.in,Village-40,Jabalpur,Madhya Pradesh,2025-11-21
+82,Green Madhya Center,Pesticide Supplier,Deepak Reddy,9607340883,greenmadhyacenter@agro.in,Village-158,Jabalpur,Madhya Pradesh,2024-04-23
+83,Prime Madhya Center,Seed Supplier,Mohan Babu,9806603999,primemadhyacenter@agro.in,Village-175,Jabalpur,Madhya Pradesh,2021-03-01
+84,Agri Madhya Inputs,Multi-Service Agro Center,Vijay Kumar,9962101177,agrimadhyainputs@agro.in,Village-165,Bhopal,Madhya Pradesh,2021-07-10
+85,Harvest Odisha Center,Fertilizer Supplier,Gayathri Gupta,9382602149,harvestodishacenter@agro.in,Village-73,Cuttack,Odisha,2024-08-10
+86,Future Odisha Seeds,Multi-Service Agro Center,Suresh Raj,9723142317,futureodishaseeds@agro.in,Village-155,Sambalpur,Odisha,2021-08-12
+87,Golden Odisha Seeds,Seed Supplier,Karthik Menon,9803565224,goldenodishaseeds@agro.in,Village-64,Sambalpur,Odisha,2025-05-17
+88,Farm Odisha Solutions,Multi-Service Agro Center,Priya Kumar,9795667042,farmodishasolutions@agro.in,Village-190,Cuttack,Odisha,2023-03-10
+89,Golden Odisha Corporation,Seed Supplier,Suresh Iyer,9281658464,goldenodishacorporation@agro.in,Village-11,Sambalpur,Odisha,2024-03-15
+90,National Odisha Solutions,Seed Supplier,Rahul Kumar,9909987071,nationalodishasolutions@agro.in,Village-108,Sambalpur,Odisha,2021-12-26
+91,Agri Odisha Center,Equipment Dealer,Ramesh Verma,9643829052,agriodishacenter@agro.in,Village-174,Sambalpur,Odisha,2021-02-11
+92,Agri West Solutions,Pesticide Supplier,Suresh Kumar,9438554488,agriwestsolutions@agro.in,Village-155,Durgapur,West Bengal,2024-08-31
+93,Krishi West Inputs,Multi-Service Agro Center,Priya Chandra,9209644217,krishiwestinputs@agro.in,Village-187,Siliguri,West Bengal,2020-08-04
+94,Prime West Corporation,Equipment Dealer,Naveen Gowda,9250649367,primewestcorporation@agro.in,Village-38,Durgapur,West Bengal,2021-11-16
+95,Prime West Supplies,Multi-Service Agro Center,Dinesh Pillai,9802255442,primewestsupplies@agro.in,Village-47,Durgapur,West Bengal,2025-06-13
+96,Green West Solutions,Equipment Dealer,Lakshmi Babu,9397094194,greenwestsolutions@agro.in,Village-90,Durgapur,West Bengal,2025-08-30
+97,National West Center,Seed Supplier,Nandhini Kumar,9607215485,nationalwestcenter@agro.in,Village-102,Kolkata,West Bengal,2023-07-28
+98,Shakti West Center,Equipment Dealer,Senthil Gupta,9194757760,shaktiwestcenter@agro.in,Village-84,Durgapur,West Bengal,2024-12-21
+99,National Bihar Agro,Fertilizer Supplier,Akash Nair,9478691037,nationalbiharagro@agro.in,Village-94,Patna,Bihar,2023-08-05
+100,Future Bihar Solutions,Fertilizer Supplier,Mohan Reddy,9925324768,futurebiharsolutions@agro.in,Village-151,Muzaffarpur,Bihar,2023-10-29

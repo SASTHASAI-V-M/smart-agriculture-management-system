@@ -1,0 +1,151 @@
+Market_ID,Market_Code,Market_Name,Village,District,State,Contact_Number,Market_Type
+1,MKT0001,Coimbatore APMC,Thudiyalur,Coimbatore,Tamil Nadu,6022768040,APMC
+2,MKT0002,Erode Turmeric Market,Perundurai,Erode,Tamil Nadu,7501652580,Commodity
+3,MKT0003,Salem Agricultural Market,Attur,Salem,Tamil Nadu,9319300868,APMC
+4,MKT0004,Madurai Flower Market,Sholavandan,Madurai,Tamil Nadu,6935868570,Flower
+5,MKT0005,Tiruchirappalli APMC,Tiruchirappalli,Tiruchirappalli,Tamil Nadu,8988348136,APMC
+6,MKT0006,Thanjavur Paddy Market,Kumbakonam,Thanjavur,Tamil Nadu,7524296237,Paddy
+7,MKT0007,Dindigul Vegetable Market,Palani,Dindigul,Tamil Nadu,7884095724,Vegetable
+8,MKT0008,Tirunelveli APMC,Tirunelveli,Tirunelveli,Tamil Nadu,7225258329,APMC
+9,MKT0009,Vellore Agricultural Market,Arcot,Vellore,Tamil Nadu,9001674039,APMC
+10,MKT0010,Namakkal Poultry Market,Tiruchengode,Namakkal,Tamil Nadu,8980765261,Poultry
+11,MKT0011,Karur Agricultural Market,Krishnarayapuram,Karur,Tamil Nadu,7498251982,APMC
+12,MKT0012,Cuddalore Paddy Market,Neyveli,Cuddalore,Tamil Nadu,7175750309,Paddy
+13,MKT0013,Theni Vegetable Market,Theni,Theni,Tamil Nadu,7089040771,Vegetable
+14,MKT0014,Kanyakumari Coconut Market,Kanyakumari,Kanyakumari,Tamil Nadu,7284257239,Coconut
+15,MKT0015,Dharmapuri Mango Market,Dharmapuri,Dharmapuri,Tamil Nadu,9842005507,Fruit
+16,MKT0016,Krishnagiri Mango Market,Krishnagiri,Krishnagiri,Tamil Nadu,7003524578,Fruit
+17,MKT0017,Nilgiris Tea Market,Nilgiris,Nilgiris,Tamil Nadu,7781044476,Tea
+18,MKT0018,Sivagangai Agricultural Market,Sivagangai,Sivagangai,Tamil Nadu,6438214422,APMC
+19,MKT0019,Ramanathapuram APMC,Ramanathapuram,Ramanathapuram,Tamil Nadu,9880650072,APMC
+20,MKT0020,Virudhunagar Chilli Market,Virudhunagar,Virudhunagar,Tamil Nadu,9489103972,Spices
+21,MKT0021,Guntur Mirchi Yard,Guntur,Guntur,Andhra Pradesh,7120703049,Spices
+22,MKT0022,Vijayawada APMC,Vijayawada,Vijayawada,Andhra Pradesh,6901562182,APMC
+23,MKT0023,Kurnool Agricultural Market,Kurnool,Kurnool,Andhra Pradesh,6455927236,APMC
+24,MKT0024,Anantapur Groundnut Market,Anantapur,Anantapur,Andhra Pradesh,9370499022,Groundnut
+25,MKT0025,Visakhapatnam Agricultural Market,Visakhapatnam,Visakhapatnam,Andhra Pradesh,6831876960,APMC
+26,MKT0026,Nellore Paddy Market,Nellore,Nellore,Andhra Pradesh,6911152672,Paddy
+27,MKT0027,Tirupati Vegetable Market,Tirupati,Tirupati,Andhra Pradesh,9290680319,Vegetable
+28,MKT0028,Warangal Cotton Market,Warangal,Warangal,Telangana,9540089585,Cotton
+29,MKT0029,Karimnagar Paddy Market,Karimnagar,Karimnagar,Telangana,9138788221,Paddy
+30,MKT0030,Nizamabad Turmeric Market,Nizamabad,Nizamabad,Telangana,7921714197,Turmeric
+31,MKT0031,Hyderabad APMC,Hyderabad,Hyderabad,Telangana,7271882843,APMC
+32,MKT0032,Khammam Chilli Market,Khammam,Khammam,Telangana,7013892639,Spices
+33,MKT0033,Adilabad Cotton Market,Adilabad,Adilabad,Telangana,6191921473,Cotton
+34,MKT0034,Bengaluru APMC,Bengaluru,Bengaluru,Karnataka,9810458697,APMC
+35,MKT0035,Mysuru Agricultural Market,Mysuru,Mysuru,Karnataka,8499661956,APMC
+36,MKT0036,Hubballi APMC,Dharwad,Dharwad,Karnataka,9651637154,APMC
+37,MKT0037,Belagavi Sugarcane Market,Belagavi,Belagavi,Karnataka,8245644249,Sugarcane
+38,MKT0038,Shivamogga Paddy Market,Shivamogga,Shivamogga,Karnataka,6266092381,Paddy
+39,MKT0039,Davanagere Cotton Market,Davanagere,Davanagere,Karnataka,7967485733,Cotton
+40,MKT0040,Ballari Agricultural Market,Ballari,Ballari,Karnataka,6888728645,APMC
+41,MKT0041,Hassan Coffee Market,Hassan,Hassan,Karnataka,9145537488,Coffee
+42,MKT0042,Chikkamagaluru Coffee Market,Chikkamagaluru,Chikkamagaluru,Karnataka,9874226756,Coffee
+43,MKT0043,Mandya Sugar Market,Mandya,Mandya,Karnataka,9022351267,Sugarcane
+44,MKT0044,Kozhikode Spice Market,Kozhikode,Kozhikode,Kerala,9454249568,Spices
+45,MKT0045,Kochi Spice Market,Ernakulam,Ernakulam,Kerala,9037894756,Spices
+46,MKT0046,Thrissur Agricultural Market,Thrissur,Thrissur,Kerala,9240364141,APMC
+47,MKT0047,Palakkad Paddy Market,Palakkad,Palakkad,Kerala,9560481234,Paddy
+48,MKT0048,Idukki Cardamom Market,Idukki,Idukki,Kerala,9294847092,Spices
+49,MKT0049,Wayanad Pepper Market,Wayanad,Wayanad,Kerala,6791011652,Pepper
+50,MKT0050,Kannur Coconut Market,Kannur,Kannur,Kerala,8167189103,Coconut
+51,MKT0051,Lasalgaon Onion Market,Nashik,Nashik,Maharashtra,9915826368,Onion
+52,MKT0052,Pune Agricultural Market,Pune,Pune,Maharashtra,8560604443,APMC
+53,MKT0053,Nagpur Orange Market,Nagpur,Nagpur,Maharashtra,7479285447,Fruit
+54,MKT0054,Vashi APMC,Navi Mumbai,Navi Mumbai,Maharashtra,8880824630,APMC
+55,MKT0055,Kolhapur Jaggery Market,Kolhapur,Kolhapur,Maharashtra,7432258551,Jaggery
+56,MKT0056,Aurangabad Cotton Market,Aurangabad,Aurangabad,Maharashtra,9476647026,Cotton
+57,MKT0057,Solapur Grain Market,Solapur,Solapur,Maharashtra,8454737221,Grains
+58,MKT0058,Amravati Cotton Market,Amravati,Amravati,Maharashtra,8157124795,Cotton
+59,MKT0059,Jalgaon Banana Market,Jalgaon,Jalgaon,Maharashtra,6823371002,Fruit
+60,MKT0060,Latur Pulse Market,Latur,Latur,Maharashtra,9102439281,Pulses
+61,MKT0061,Sangli Turmeric Market,Sangli,Sangli,Maharashtra,9456189025,Turmeric
+62,MKT0062,Akola Soybean Market,Akola,Akola,Maharashtra,7739254509,Oilseeds
+63,MKT0063,Ahmednagar Sugar Market,Ahmednagar,Ahmednagar,Maharashtra,7620251464,Sugarcane
+64,MKT0064,Yavatmal Cotton Market,Yavatmal,Yavatmal,Maharashtra,7228022758,Cotton
+65,MKT0065,Satara Vegetable Market,Satara,Satara,Maharashtra,9121210758,Vegetable
+66,MKT0066,Ahmedabad APMC,Ahmedabad,Ahmedabad,Gujarat,9166954004,APMC
+67,MKT0067,Rajkot Groundnut Market,Rajkot,Rajkot,Gujarat,8026850785,Groundnut
+68,MKT0068,Surat Vegetable Market,Surat,Surat,Gujarat,9542948944,Vegetable
+69,MKT0069,Vadodara Grain Market,Vadodara,Vadodara,Gujarat,6836298543,Grains
+70,MKT0070,Junagadh Groundnut Market,Junagadh,Junagadh,Gujarat,6945965413,Groundnut
+71,MKT0071,Bhavnagar Cotton Market,Bhavnagar,Bhavnagar,Gujarat,9725946196,Cotton
+72,MKT0072,Mehsana Cumin Market,Mehsana,Mehsana,Gujarat,7304281961,Spices
+73,MKT0073,Gandhinagar Agricultural Market,Gandhinagar,Gandhinagar,Gujarat,8444411571,APMC
+74,MKT0074,Jamnagar Sesame Market,Jamnagar,Jamnagar,Gujarat,8783720785,Oilseeds
+75,MKT0075,Anand Tobacco Market,Anand,Anand,Gujarat,7443739892,Tobacco
+76,MKT0076,Jaipur Agricultural Market,Jaipur,Jaipur,Rajasthan,7843493976,APMC
+77,MKT0077,Kota Soybean Market,Kota,Kota,Rajasthan,9919318090,Oilseeds
+78,MKT0078,Udaipur Maize Market,Udaipur,Udaipur,Rajasthan,9890726303,Maize
+79,MKT0079,Jodhpur Cumin Market,Jodhpur,Jodhpur,Rajasthan,8684562622,Spices
+80,MKT0080,Bikaner Mustard Market,Bikaner,Bikaner,Rajasthan,9977112030,Mustard
+81,MKT0081,Ajmer Grain Market,Ajmer,Ajmer,Rajasthan,8424611636,Grains
+82,MKT0082,Alwar Vegetable Market,Alwar,Alwar,Rajasthan,7264684250,Vegetable
+83,MKT0083,Sikar Mustard Market,Sikar,Sikar,Rajasthan,8642813425,Mustard
+84,MKT0084,Ganganagar Cotton Market,Sri Ganganagar,Sri Ganganagar,Rajasthan,8083087997,Cotton
+85,MKT0085,Bhilwara Soybean Market,Bhilwara,Bhilwara,Rajasthan,7636667686,Oilseeds
+86,MKT0086,Indore Grain Market,Indore,Indore,Madhya Pradesh,8703193427,Grains
+87,MKT0087,Bhopal Agricultural Market,Bhopal,Bhopal,Madhya Pradesh,8828487319,APMC
+88,MKT0088,Ujjain Soybean Market,Ujjain,Ujjain,Madhya Pradesh,7879983705,Oilseeds
+89,MKT0089,Jabalpur Pulse Market,Jabalpur,Jabalpur,Madhya Pradesh,8665891208,Pulses
+90,MKT0090,Gwalior Wheat Market,Gwalior,Gwalior,Madhya Pradesh,7664761009,Wheat
+91,MKT0091,Sagar Gram Market,Sagar,Sagar,Madhya Pradesh,6253396557,Pulses
+92,MKT0092,Rewa Paddy Market,Rewa,Rewa,Madhya Pradesh,6869262423,Paddy
+93,MKT0093,Dewas Soybean Market,Dewas,Dewas,Madhya Pradesh,8029980269,Oilseeds
+94,MKT0094,Ratlam Garlic Market,Ratlam,Ratlam,Madhya Pradesh,8215072283,Spices
+95,MKT0095,Neemuch Spice Market,Neemuch,Neemuch,Madhya Pradesh,6299571813,Spices
+96,MKT0096,Chhindwara Maize Market,Chhindwara,Chhindwara,Madhya Pradesh,8021410435,Maize
+97,MKT0097,Hoshangabad Wheat Market,Narmadapuram,Narmadapuram,Madhya Pradesh,7907854904,Wheat
+98,MKT0098,Sehore Soybean Market,Sehore,Sehore,Madhya Pradesh,9649006026,Oilseeds
+99,MKT0099,Khandwa Cotton Market,Khandwa,Khandwa,Madhya Pradesh,9954607867,Cotton
+100,MKT0100,Khargone Chilli Market,Khargone,Khargone,Madhya Pradesh,9423440463,Spices
+101,MKT0101,Lucknow Agricultural Market,Lucknow,Lucknow,Uttar Pradesh,9080078555,APMC
+102,MKT0102,Kanpur Grain Market,Kanpur Nagar,Kanpur Nagar,Uttar Pradesh,6489490231,Grains
+103,MKT0103,Varanasi Vegetable Market,Varanasi,Varanasi,Uttar Pradesh,7621837588,Vegetable
+104,MKT0104,Gorakhpur Paddy Market,Gorakhpur,Gorakhpur,Uttar Pradesh,8027931160,Paddy
+105,MKT0105,Agra Potato Market,Agra,Agra,Uttar Pradesh,6724337750,Potato
+106,MKT0106,Meerut Sugarcane Market,Meerut,Meerut,Uttar Pradesh,7166264427,Sugarcane
+107,MKT0107,Bareilly Wheat Market,Bareilly,Bareilly,Uttar Pradesh,8426460350,Wheat
+108,MKT0108,Prayagraj Pulse Market,Prayagraj,Prayagraj,Uttar Pradesh,7772144152,Pulses
+109,MKT0109,Aligarh Maize Market,Aligarh,Aligarh,Uttar Pradesh,6374403446,Maize
+110,MKT0110,Saharanpur Mango Market,Saharanpur,Saharanpur,Uttar Pradesh,6491946341,Fruit
+111,MKT0111,Ludhiana Grain Market,Ludhiana,Ludhiana,Punjab,9533331515,Grains
+112,MKT0112,Amritsar Vegetable Market,Amritsar,Amritsar,Punjab,8788211676,Vegetable
+113,MKT0113,Bathinda Cotton Market,Bathinda,Bathinda,Punjab,9455686939,Cotton
+114,MKT0114,Patiala Paddy Market,Patiala,Patiala,Punjab,7446753040,Paddy
+115,MKT0115,Jalandhar Agricultural Market,Jalandhar,Jalandhar,Punjab,8088654578,APMC
+116,MKT0116,Hisar Cotton Market,Hisar,Hisar,Haryana,7341018375,Cotton
+117,MKT0117,Karnal Rice Market,Karnal,Karnal,Haryana,6244513243,Rice
+118,MKT0118,Rohtak Grain Market,Rohtak,Rohtak,Haryana,8006276983,Grains
+119,MKT0119,Panipat Vegetable Market,Panipat,Panipat,Haryana,8366170563,Vegetable
+120,MKT0120,Ambala Agricultural Market,Ambala,Ambala,Haryana,6643312942,APMC
+121,MKT0121,Patna Grain Market,Patna,Patna,Bihar,7081788037,Grains
+122,MKT0122,Muzaffarpur Litchi Market,Muzaffarpur,Muzaffarpur,Bihar,9116697037,Fruit
+123,MKT0123,Gaya Pulse Market,Gaya,Gaya,Bihar,8772297916,Pulses
+124,MKT0124,Bhagalpur Maize Market,Bhagalpur,Bhagalpur,Bihar,9775411680,Maize
+125,MKT0125,Purnia Paddy Market,Purnia,Purnia,Bihar,8518827291,Paddy
+126,MKT0126,Bhubaneswar Agricultural Market,Khordha,Khordha,Odisha,6924300529,APMC
+127,MKT0127,Cuttack Paddy Market,Cuttack,Cuttack,Odisha,7098671286,Paddy
+128,MKT0128,Sambalpur Vegetable Market,Sambalpur,Sambalpur,Odisha,9400285751,Vegetable
+129,MKT0129,Balasore Fish Market,Balasore,Balasore,Odisha,7304741950,Fish
+130,MKT0130,Berhampur Grain Market,Ganjam,Ganjam,Odisha,7203516539,Grains
+131,MKT0131,Kolkata Wholesale Market,Kolkata,Kolkata,West Bengal,9803373026,APMC
+132,MKT0132,Siliguri Tea Market,Darjeeling,Darjeeling,West Bengal,8133686941,Tea
+133,MKT0133,Burdwan Rice Market,Purba Bardhaman,Purba Bardhaman,West Bengal,6790278333,Rice
+134,MKT0134,Malda Mango Market,Malda,Malda,West Bengal,8062806274,Fruit
+135,MKT0135,Midnapore Paddy Market,Paschim Medinipur,Paschim Medinipur,West Bengal,9839449587,Paddy
+136,MKT0136,Raipur Paddy Market,Raipur,Raipur,Chhattisgarh,9685306364,Paddy
+137,MKT0137,Durg Agricultural Market,Durg,Durg,Chhattisgarh,8479646706,APMC
+138,MKT0138,Bilaspur Rice Market,Bilaspur,Bilaspur,Chhattisgarh,8571086412,Rice
+139,MKT0139,Ranchi Vegetable Market,Ranchi,Ranchi,Jharkhand,8356693755,Vegetable
+140,MKT0140,Dhanbad Grain Market,Dhanbad,Dhanbad,Jharkhand,8621743522,Grains
+141,MKT0141,Guwahati Agricultural Market,Kamrup Metro,Kamrup Metro,Assam,7929418484,APMC
+142,MKT0142,Jorhat Tea Market,Jorhat,Jorhat,Assam,8675221771,Tea
+143,MKT0143,Dibrugarh Tea Market,Dibrugarh,Dibrugarh,Assam,7121705385,Tea
+144,MKT0144,Shillong Vegetable Market,East Khasi Hills,East Khasi Hills,Meghalaya,6397578096,Vegetable
+145,MKT0145,Agartala Agricultural Market,West Tripura,West Tripura,Tripura,9638761949,APMC
+146,MKT0146,Imphal Grain Market,Imphal West,Imphal West,Manipur,6531929520,Grains
+147,MKT0147,Aizawl Ginger Market,Aizawl,Aizawl,Mizoram,8135519167,Spices
+148,MKT0148,Kohima Vegetable Market,Kohima,Kohima,Nagaland,6800656746,Vegetable
+149,MKT0149,Gangtok Cardamom Market,Gangtok,Gangtok,Sikkim,8632844614,Spices
+150,MKT0150,Itanagar Agricultural Market,Papum Pare,Papum Pare,Arunachal Pradesh,7318393375,APMC
